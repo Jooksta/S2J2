@@ -10,7 +10,11 @@ def multiples
 	return sum
 end
 
-puts multiples 
+def perform
+puts multiples
+end
+
+perform
 
 
 
